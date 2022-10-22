@@ -20,4 +20,6 @@ Walter Hugo Arboleda Mazo
 [Documento de Word del trabajo](https://docs.google.com/document/d/1krVrQ3nExES0m_0wGpg_aoYzu71osVrp/edit?usp=sharing&ouid=115052961224190842447&rtpof=true&sd=true)
 
 ## Video de los programas funcionando:
-[URL]()
+[URL en Google Drive]()
+
+[URL en YouTube]()
