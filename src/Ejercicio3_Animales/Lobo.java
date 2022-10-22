@@ -1,4 +1,4 @@
-package Animales;
+package Ejercicio3_Animales;
 
 /**
 * Esta clase concreta denominada Lobo es una subclase de Cánido.

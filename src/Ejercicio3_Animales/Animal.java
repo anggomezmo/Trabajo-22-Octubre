@@ -1,4 +1,4 @@
-package Animales;
+package Ejercicio3_Animales;
 /**
 * Esta clase abstracta denominada Animal modela un animal genérico
 * que cuenta con atributos como un sonido, alimentos que consume,

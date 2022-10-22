@@ -1,4 +1,4 @@
-package Animales;
+package Ejercicio3_Animales;
 
 /**
 * Esta clase concreta denominada Gato es una subclase de Felino.

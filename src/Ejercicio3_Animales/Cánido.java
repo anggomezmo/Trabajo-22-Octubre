@@ -1,4 +1,4 @@
-package Animales;
+package Ejercicio3_Animales;
 
 /**
 * Esta clase abstracta denominada Cánido modela esta familia de

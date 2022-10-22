@@ -1,4 +1,4 @@
-package Animales;
+package Ejercicio3_Animales;
 /**
 * Esta clase prueba diferentes animales y sus métodos.
 * @version 1.2/2020
