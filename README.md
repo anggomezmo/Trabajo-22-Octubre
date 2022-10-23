@@ -15,9 +15,7 @@ Walter Hugo Arboleda Mazo
 ## Google Drive del equipo:
 [Diagramas de clase](https://drive.google.com/drive/folders/1ICxHx5j4y9C8FN1xwWk6NMvMNv1FWO1W?usp=sharing)
 
-[Documento PDF del trabajo]()
-
-[Documento de Word del trabajo](https://docs.google.com/document/d/1krVrQ3nExES0m_0wGpg_aoYzu71osVrp/edit?usp=sharing&ouid=115052961224190842447&rtpof=true&sd=true)
+[Documento PDF del trabajo](https://drive.google.com/file/d/1XBYNDVR9mzwfsZzP-Dv-wNl_wGY5Rw03/view?usp=sharing)
 
 ## Video de los programas funcionando:
 [URL en Google Drive](https://drive.google.com/file/d/1TbxIu22w5_9z7dANe0Y-lCiXo-JSukWV/view?usp=sharing)
